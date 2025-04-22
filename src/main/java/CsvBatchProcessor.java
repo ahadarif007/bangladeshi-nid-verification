@@ -91,7 +91,9 @@ public class CsvBatchProcessor implements Callable<List<String[]>> {
                 row[CsvConstants.HAS_VALID_SMART_CARD_INDEX + adjustedIndex] = String.valueOf(isSmartCardValid).toUpperCase();
 
                 // Add to results
-                results.add(row);
+                if(isSmartCardValid || isNidValid){
+                    results.add(row);
+                }
             } catch (Exception e) {
                 // Handle parsing errors for individual rows
                 System.err.println("Error processing row: " + e.getMessage());

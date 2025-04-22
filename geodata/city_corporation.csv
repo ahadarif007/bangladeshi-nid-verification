@@ -1,0 +1,12 @@
+#,id,created,deleted,last_updated,created_by_id,updated_by_id,uuid_str,name_en,name_bn,bbs_code,district_id,weight
+1,1,2020-06-03 17:32:45,false,2020-06-03 17:32:45,,,847d0076-cce2-427b-a267-6a12c5ceb2f0,BARISHAL CITY CORPORATION,বরিশাল সিটি কর্পোরেশন,50,2,0
+2,2,2020-06-03 17:33:55,false,2020-06-03 17:33:55,,,f5db645b-9866-4214-8003-0e1ebac25b9d,CHATTOGRAM CITY CORPORATION,চট্টগ্রাম সিটি কর্পোরেশন,16,10,0
+3,3,2020-06-03 17:34:16,false,2020-06-03 17:34:16,,,8c633ced-9df5-423b-a60a-ae74766993ec,CUMILLA CITY CORPORATION,কুমিল্লা সিটি কর্পোরেশন,50,11,0
+4,4,2020-06-03 17:35:08,false,2020-06-03 17:35:08,,,b64aa019-1705-459b-ba8b-fad37e5d382d,DHAKA SOUTH CITY CORPORATION,ঢাকা দক্ষিণ সিটি কর্পোরেশন,20,18,0
+5,5,2020-06-03 17:35:27,false,2020-06-03 17:35:27,,,490d4556-0c30-46b0-b88e-2160413e6598,DHAKA NORTH CITY CORPORATION,ঢাকা উত্তর সিটি কর্পোরেশন,25,18,0
+6,6,2020-06-03 17:36:01,false,2020-06-03 17:36:01,,,ff292e9b-8794-433a-9aa2-09563b933e8d,GAZIPUR CITY CORPORATION,গাজীপুর সিটি কর্পোরেশন,33,20,0
+7,7,2020-06-03 17:37:18,false,2020-06-03 17:37:18,,,65a9d2df-b2cc-4412-aff9-781251d90aab,NARAYANGANJ CITY CORPORATION,নারায়নগঞ্জ সিটি কর্পোরেশন,44,28,0
+8,8,2020-06-03 17:39:57,false,2020-06-03 17:39:57,,,5a284ab8-2d78-435f-92aa-06348d8b3c07,KHULNA CITY CORPORATION,খুলনা সিটি কর্পোরেশন,33,39,0
+9,9,2020-06-03 17:43:48,false,2020-06-03 17:43:48,,,5d4dfb2e-3343-4c74-8b7c-854969da6b34,RAJSHAHI CITY CORPORATION,রাজশাহী সিটি কর্পোরেশন,66,51,0
+10,10,2020-06-03 17:44:48,false,2020-06-03 17:44:48,,,12d637ff-f01f-45f4-be31-d0ebbf3b6a9b,RANGPUR CITY CORPORATION,রংপুর সিটি কর্পোরেশন,75,59,0
+11,11,2020-06-03 17:45:29,false,2020-06-03 17:45:29,,,59c19e64-7964-4f62-b75b-ffa28f5b75e3,SYLHET CITY CORPORATION,সিলেট সিটি কর্পোরেশন,50,64,0
